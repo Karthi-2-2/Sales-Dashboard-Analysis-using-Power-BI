@@ -29,4 +29,6 @@ This project was created using Power BI to analyze sales data from 2019 to 2020.
 ## Learning Outcome
 This project helped me improve my skills in data visualization, dashboard design, DAX measures, and business insight generation using Power BI.
 
-![Sales Dashboard](Sales Dashboard.png)
+# Sales Dashboard Project
+
+![Dashboard](dashboard.png)
